@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "AGek2Hkyf9Hs2HR6npXTZmE5Ox+x5oKp3hNaoq4awRNpIFINZoMoiY6XzH3RW2Rj6Dvsd21qFRpE6uRZod49Pg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Jdds_\\OneDrive\\Área de Trabalho\\ADS\\Cursos complementares\\Bootcamp Decola Tech 2ed\\CadastroSerie\\dio-dotnet-poo-lab-2\\DIO.Series.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Jdds_\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.22\\microsoft.netcore.app.host.win-x64.3.1.22.nupkg.sha512"
+  ],
+  "logs": []
+}
